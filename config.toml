@@ -1,7 +1,7 @@
-baseurl = "https://example.org/"
+baseurl = "https://github.com/Aporch/laprueba/"
 languageCode = "en-us"
 title = "Hugo Creative Theme"
-theme = "yo"
+theme = ""
 googleAnalytics = ""
 
 [params]
